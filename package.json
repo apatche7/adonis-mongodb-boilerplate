@@ -27,7 +27,7 @@
     "adonis-websocket": "^1.0.3",
     "node-fence": "^1.0.0-alpha-5",
     "require-all": "^2.2.0",
-    "standard": "^8.6.0",
+    "standard": "^9.0.0",
     "swagger-jsdoc": "^1.9.2",
     "swagger-ui": "^2.2.10",
     "youch": "^2.0.4"
@@ -43,6 +43,6 @@
   },
   "devDependencies": {
     "nodemon": "^1.11.0",
-    "standard": "^8.6.0"
+    "standard": "^9.0.0"
   }
 }
